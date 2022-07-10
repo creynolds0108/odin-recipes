@@ -1,5 +1,5 @@
 body{
-    background-color: blanchedalmond;
+    background-color: #CC252C ; 
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 h1{
@@ -16,4 +16,18 @@ img{
     margin-left: auto;
     margin-right: auto;
     width:50%;
+}
+hr{
+    width:auto;
+    height: 5px;
+    background-color: black;
+    margin:20px;
+}
+ul{
+    border: solid 5px; 
+    padding:5px;
+}
+ol{
+    border: dotted 5px;
+    padding:5px;
 }
